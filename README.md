@@ -5,5 +5,5 @@ Usage:
 ```shell
 python assembler.py filename.asm
 ```
-By using the assembler, you can convert a .asm file to .obj file and can run in your LC-3 Simulator.\
+By using the assembler, you can convert a .asm file to a .obj file and can run in your LC-3 Simulator.\
 Tip: During the assembling process, the error's location will be noticed by PC.
